@@ -3,6 +3,7 @@
 
 #include <QMainWindow>
 #include <QMouseEvent>
+#include <QPaintEvent>
 #include <QStatusBar>
 #include <QLabel>
 #include <QImage>

@@ -5,6 +5,7 @@
 #include <QImage>
 #include <QPixmap>
 #include <QMouseEvent>
+#include <QPaintEvent>
 #include <QPainter>
 #include <QMenuBar>
 #include <QMenu>

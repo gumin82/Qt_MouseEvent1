@@ -10,10 +10,12 @@ CONFIG += c++17
 
 SOURCES += \
     main.cpp \
-    mouseevent.cpp
+    mouseevent.cpp \
+    zoomwindow.cpp
 
 HEADERS += \
-    mouseevent.h
+    mouseevent.h \
+    zoomwindow.h
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
